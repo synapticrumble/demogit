@@ -1,0 +1,5 @@
+Samsher sir
+
+I create this file from my branch in server/synapticrumble/demogit
+now i will work in comman line terminal
+and from there after some changes i will add and push in my remote branch and samworkingflow......too.
