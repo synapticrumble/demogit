@@ -1,0 +1,1 @@
+This file is a proof of working of command line
