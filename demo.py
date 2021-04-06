@@ -7,3 +7,15 @@ def gen_primes(N):
             yield n
 
 print(*gen_primes(100))
+
+
+def Fibo(n):
+    """Generate fibonacci numbers of given value n"""
+    
+    a = 1
+    b = 0
+    while a<n:
+        print(a, end=' ')
+        a,b = a+b, a
+        #print(a, end=' ')
+print(Fibo(1000))
