@@ -1,6 +1,11 @@
 First Name,Last Name,Country,age
 "Bob","Smith","United States",24
 "Alice","Williams","Canada",23
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0bdd2f2ede771d41fffad454f8d5ebafcbea182f
 "Malcolm","Jone","England",22
 "Felix","Brown","USA",23
 "Alex","Cooper","Poland",23
